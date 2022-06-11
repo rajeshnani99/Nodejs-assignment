@@ -1,0 +1,19 @@
+{
+  "name": "2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "rajesh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "moment": "^2.29.3",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}

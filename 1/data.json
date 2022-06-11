@@ -1,0 +1,22 @@
+{
+    "Rooms":{
+        "Taj":[
+        
+            {"seats":500},
+            {"Amenities":"Wifi , Outdoor grills, Coin-free laundry , Study lounges , Community rooms and Bar" },
+            {"Price": 100000}
+        ],
+        "Novotel Room":[
+            {"Seats":300},
+            {"Amenities":"Wifi , Outdoor grills,  Community rooms and Bar" },
+            {"Price": 25000}
+    
+        ],
+        "Marriott Room":[
+            {"Seats":200},
+            {"Amenities":"Wifi ,  Community rooms and Bar" },
+            {"Price": 25000}
+    
+        ]
+    }
+}
